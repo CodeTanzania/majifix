@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/CodeTanzania/majifix.svg?branch=develop)](https://travis-ci.org/CodeTanzania/majifix)
 [![Dependencies Status](https://david-dm.org/CodeTanzania/majifix/status.svg?style=flat-square)](https://david-dm.org/CodeTanzania/majifix)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 
 > WIP
 
